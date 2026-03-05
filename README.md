@@ -37,3 +37,10 @@ See wiring diagram here:
 
 Code is available in the **code folder**:
 
+
+## 🔗 Project Post on LinkedIn
+
+Check out the project post here:  
+
+🔗 **[View the LinkedIn Post](https://www.linkedin.com/posts/-rahuljana_arduino-electronics-diyprojects-activity-7367657120516788224-qPdX)**
+
