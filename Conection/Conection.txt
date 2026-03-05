@@ -1,0 +1,19 @@
+# Circuit Connections
+
+## DHT11 Sensor
+VCC → 5V  
+GND → GND  
+DATA → Pin 2
+
+## LEDs
+
+LED 1 → Pin 8 through 220Ω resistor  
+LED 2 → Pin 9 through 220Ω resistor  
+LED 3 → Pin 10 through 220Ω resistor  
+
+LED cathodes → GND
+
+## Buzzer
+
+Positive → Pin 11  
+Negative → GND
