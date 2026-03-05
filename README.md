@@ -26,7 +26,7 @@ This makes it a simple **temperature monitoring and alert system**.
 ## 🧰 Components Used
 
 See full list here:  
-📄 components/components_list.md
+📄 components/components_list.txt
 
 ## 🔌 Circuit Connections
 
