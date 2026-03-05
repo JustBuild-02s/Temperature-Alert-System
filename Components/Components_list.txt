@@ -1,0 +1,23 @@
+# Components Used
++------------------------+----------+
+| Component              | Quantity |
++------------------------+----------+
+| Arduino Uno / Nano     | 1        |
+| DHT11 Temperature      | 1        |
+| LED                    | 3        |
+| 220Ω Resistor          | 3        |
+| Buzzer                 | 1        |
+| Breadboard             | 1        |
+| Jumper Wires           | Several  |
++------------------------+----------+
+
+## Description
+
+**DHT11 Sensor**
+Used to measure the temperature of the surrounding environment.
+
+**LEDs**
+Used to visually indicate the temperature level.
+
+**Buzzer**
+Used as an alert when temperature becomes too high.
